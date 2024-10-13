@@ -7,3 +7,5 @@ export { default as Partnerts } from './Partnerts';
 export { default as Service } from './Service';
 export { default as Form } from './Form';
 export { default as Testimonial } from './Testimonial';
+export { default as Footer } from './Footer';
+export { default as CTA } from './CTA';
