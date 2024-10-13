@@ -1,5 +1,6 @@
 import {
     AboutUs,
+    CTA,
     Feature,
     Form,
     Hero,
@@ -18,6 +19,7 @@ const Home = () => {
             <Form />
             <Service />
             <Testimonial />
+            <CTA />
         </>
     );
 };

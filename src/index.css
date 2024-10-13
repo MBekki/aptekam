@@ -44,3 +44,10 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.cta-section {
+    background-image: linear-gradient(#75c2c3e9, #2f6c6dd7),
+        url(https://tebewebe.online/pharamedic/wp-content/uploads/sites/40/2023/10/empty-pharmacy-store-full-with-pharmaceutical-product-and-treatment-on-shelves.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
