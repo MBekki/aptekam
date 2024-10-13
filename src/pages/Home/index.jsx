@@ -1,4 +1,4 @@
-import { AboutUs, Feature, Hero, Partnerts } from '../../components';
+import { AboutUs, Feature, Hero, Partnerts, Service } from '../../components';
 
 const Home = () => {
     return (
@@ -7,6 +7,7 @@ const Home = () => {
             <Feature />
             <AboutUs />
             <Partnerts />
+            <Service />
         </>
     );
 };

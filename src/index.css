@@ -19,3 +19,13 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.service-section-card,
+.service-section-icon {
+    transition: all 0.4s;
+}
+.service-section-card:hover {
+    border: 1px solid #47a2a3;
+}
+.service-section-card:hover .service-section-icon {
+    transform: scale(1.1) rotate(5deg);
+}
