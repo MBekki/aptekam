@@ -29,3 +29,10 @@
 .service-section-card:hover .service-section-icon {
     transform: scale(1.1) rotate(5deg);
 }
+.form-section {
+    background-image: linear-gradient(#75c2c3db, #2f6c6dbb),
+        url(https://tebewebe.online/pharamedic/wp-content/uploads/sites/40/2023/10/flat-lay-medical-elements-composition-1.jpg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
