@@ -36,3 +36,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.testimonail-section {
+    background-image: linear-gradient(#edededac, #cfcfcfd5),
+        url(https://tebewebe.online/pharamedic/wp-content/uploads/sites/40/2023/10/3439405_61802-1-e1697375308450.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

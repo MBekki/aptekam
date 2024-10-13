@@ -5,6 +5,7 @@ import {
     Hero,
     Partnerts,
     Service,
+    Testimonial,
 } from '../../components';
 
 const Home = () => {
@@ -14,8 +15,9 @@ const Home = () => {
             <Feature />
             <AboutUs />
             <Partnerts />
-            <Service />
             <Form />
+            <Service />
+            <Testimonial />
         </>
     );
 };
